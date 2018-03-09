@@ -118,11 +118,17 @@ a.just-line + ul:before {
     height: 74px;
 }
 
-#tito{
+.org_placeholder{
 
   height: 110px;
   width:110px;
-  background-color: green;
+  background-color: #B8B7B6
+;
   background-size: cover;
   padding: 0;
+}
+
+* ul li {
+
+
 }
